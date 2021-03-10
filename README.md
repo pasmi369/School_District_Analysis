@@ -1,9 +1,9 @@
 # School_District_Analysis
 
-# Overview of the School District Analysis: 
+## Overview of the School District Analysis: 
 The purpose of this project is to analyze district-wide standardized test results. Data is aggregated to show trends in school performance. Analysis was performed using School and Student Data. The school board will be using these results to make strategic decisions regarding future school budgets and priorities.
 
-# Project Description:
+## Project Description:
 This project uses the Pandas library to manipulate data into tables that allow for aggregating and summarizing of district and school data. Array calculations are performed to create a snapshot of school district's key metrics. Analysis done to show trends such as top peforming schools, bottom performing schools, math and reading scores by grade, and scores by school spending, size, and school type.
 
 ## Results:
@@ -38,8 +38,6 @@ This project uses the Pandas library to manipulate data into tables that allow f
   - The Bottom 5 schools are all District schools.
 ![Bottom-Five Schools](./Resources/Bottom_Five_Schools.png)
 
-## Average math and reading scores stay consistent across grade level when grouped by school. There is no major improvement in scores from any school.
-
   - ### Math scores by grade
 
 ![Math Scores by Grade](./Resources/Math_Scores_Grade.png)
@@ -58,13 +56,13 @@ This project uses the Pandas library to manipulate data into tables that allow f
 ### Scores by school type
   - As a whole, charter schools out-performed the public district schools across all metrics. 
 ![Scores by School Size](./Resources/Scores_School_Type.png)
-## Summary: 
 
-  
-  - However, more analysis will be required to extract from various sources if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
-  - Math passing rates are always consistently lower across every metric, but the difference between math and reading passing rates is greater amoung lower performing schools, large schools, and higher spending per student which all seem to correlate.
+## Summary: 
+  - Math passing rates are always consistently lower across every metric, but the difference between math and reading passing rates is greater among lower performing schools, large schools, and higher spending per student which all seem to correlate.
+  - Average math and reading scores stay consistent across grade level when grouped by school.
   - In general (one exception), per student spending is higher in bottom performing schools than top performing.
-  - Schools under 2000 students have much higher passing rates than those with student populations above 2000. A comparision of 95 to 75%. The same phenomenon is seen with high and low per student spending brackets and district versus charter schools
+  - The same phenomenon is seen with high and low per student spending brackets and district versus charter schools.
+  - However, more analysis will be required to extract from various sources if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
 
 
 
