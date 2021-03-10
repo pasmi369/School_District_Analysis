@@ -38,10 +38,11 @@ This project uses the Pandas library to manipulate data into tables that allow f
   - The Bottom 5 schools are all District schools.
 ![Bottom-Five Schools](./Resources/Bottom_Five_Schools.png)
 
-  - ### Math scores by grade
+### Math scores by grade
 
 ![Math Scores by Grade](./Resources/Math_Scores_Grade.png)
-    - ### Reading scores by grade
+
+### Reading scores by grade
 ![Reading Scores by Grade](./Resources/Reading_Scores_Grade.png)
 
 ### Scores by school spending
