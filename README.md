@@ -57,9 +57,9 @@ This project uses the Pandas library to manipulate data into tables that allow f
 
 ### Scores by school type
   - As a whole, charter schools out-performed the public district schools across all metrics. 
-
-## Summary: 
 ![Scores by School Size](./Resources/Scores_School_Type.png)
+## Summary: 
+
   
   - However, more analysis will be required to extract from various sources if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
   - Math passing rates are always consistently lower across every metric, but the difference between math and reading passing rates is greater amoung lower performing schools, large schools, and higher spending per student which all seem to correlate.
