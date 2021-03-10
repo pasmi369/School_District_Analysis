@@ -51,15 +51,16 @@ This project uses the Pandas library to manipulate data into tables that allow f
 ![Scores by Schools Spending](./Resources/Scores_School_Spending.png)
 
 ### Scores by school size
-  - As a whole, smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 67%).
+  - As a whole, smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 77%).
 
 ![Scores by School Size](./Resources/Scores_School_Size.png)
 
 ### Scores by school type
-![Scores by School Size](./Resources/Scores_School_Type.png)
   - As a whole, charter schools out-performed the public district schools across all metrics. 
 
 ## Summary: 
+![Scores by School Size](./Resources/Scores_School_Type.png)
+  
   - However, more analysis will be required to extract from various sources if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
   - Math passing rates are always consistently lower across every metric, but the difference between math and reading passing rates is greater amoung lower performing schools, large schools, and higher spending per student which all seem to correlate.
   - In general (one exception), per student spending is higher in bottom performing schools than top performing.
